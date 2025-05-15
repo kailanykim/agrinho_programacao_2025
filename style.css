@@ -14,25 +14,30 @@ margin: 0;
 .cabeçalho-título {
     color: #7fabed;
     font-size: 54px;
+    align-items: center;
 }
 
 .cabeçalho-lista {
     color: white;
     font-size: 22px;
+    align-items: center;
 }
 
 .cabeçalho-logotipo {
     width: 120px;
+    align-items: center;
 }
 
 .cabeçalho-lista-item1 {
     display: inline-block;
     margin: 0 16px;
+    align-items: center;
 }
 
 .cabeçalho-lista-item2 {
     display: inline-block;
     margin: 0 16px;
+    align-items: center;
 }
 
 .nossa-escola {
