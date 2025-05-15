@@ -53,27 +53,20 @@ h1 {
   font-weight: bold;
 }
 
-footer {
-  background-color: #333;
-  padding: 20px 0;
-  color: #fff;
-  margin-top: 40px;
+.rodapé{
+    background-color: #459e3f;
+    color: #ffffff;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0;
+    align-items: center;
 }
 
-.footer-content {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 10px;
+.rodapé-imagem{
+    width: 120px;
 }
 
-.footer-content img {
-  width: 20px;
-  height: 20px;
-}
-
-.footer-content p {
-  margin: 0;
-  font-size: 1em;
-  color: #ffffff;
+.rodapé-ícone{
+    width: 20px;
 }
