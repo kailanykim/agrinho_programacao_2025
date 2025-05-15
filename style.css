@@ -52,3 +52,29 @@ h1 {
   color: #cc3300; /* Vermelho escuro para os textos dos itens */
   font-weight: bold;
 }
+
+footer {
+  background-color: #333;
+  padding: 20px 0;
+  color: #fff;
+  margin-top: 40px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.footer-content p {
+  margin: 0;
+  font-size: 1em;
+  color: #ffffff;
+}
+
+.footer-content img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
