@@ -1,0 +1,17 @@
+margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+.cabeçalho {
+    background-color: #54c484;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabeçalho-título {
+    color: #5bb67a;
+    font-size: 54px;
+}
