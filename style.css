@@ -47,11 +47,6 @@ h1 {
   border-radius: 8px;
 }
 
-.item p {
-  margin-top: 10px;
-  color: #cc3300; /* Vermelho escuro para os textos dos itens */
-  font-weight: bold;
-}
 
 .rodapé{
     background-color: #e5edfc;
