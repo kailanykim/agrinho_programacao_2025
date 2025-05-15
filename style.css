@@ -17,7 +17,7 @@ margin: 0;
 }
 
 .cabeçalho-lista {
-    color: white;
+    color: rgb(10, 0, 0);
     font-size: 22px;
 }
 
@@ -28,4 +28,21 @@ margin: 0;
 .cabeçalho-lista-item1 {
     display: inline-block;
     margin: 0 16px;
+}
+rodapé{
+    background-color: #459e3f;
+    color: #ffffff;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0;
+    align-items: center;
+}
+
+.rodapé-imagem{
+    width: 120px;
+}
+
+.rodapé-ícone{
+    width: 20px;
 }
