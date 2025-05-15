@@ -15,3 +15,17 @@ margin: 0;
     color: #169bee;
     font-size: 54px;
 }
+
+.cabeçalho-lista {
+    color: white;
+    font-size: 22px;
+}
+
+.cabeçalho-logotipo {
+    width: 120px;
+}
+
+.cabeçalho-lista-item1 {
+    display: inline-block;
+    margin: 0 16px;
+}
