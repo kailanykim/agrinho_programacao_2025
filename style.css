@@ -54,7 +54,7 @@ h1 {
 }
 
 .rodapé{
-    background-color: #459e3f;
+    background-color: #e5edfc;
     color: #ffffff;
     font-size: 20px;
     display: flex;
@@ -64,7 +64,7 @@ h1 {
 }
 
 .rodapé-imagem{
-    width: 120px;
+    width: 40px;
 }
 
 .rodapé-ícone{
