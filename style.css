@@ -29,6 +29,25 @@ margin: 0;
     display: inline-block;
     margin: 0 16px;
 }
+
+.ícone {
+    width: 24px;
+}
+
+.equipe-div {
+    text-align: center;
+    padding: 16px 0;
+}
+
+.equipe-título{
+    text-align: center;
+}
+
+.equipe-div-todos {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
 rodapé{
     background-color: #459e3f;
     color: #ffffff;
