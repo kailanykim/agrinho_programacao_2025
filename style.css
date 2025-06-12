@@ -41,7 +41,7 @@ h1 {
 
 icone {
   width: 100px;
-  height: 100px;
+  height: 50px;
   object-fit: cover;
   border: 2px solid #ccc;
   border-radius: 8px;
@@ -49,14 +49,14 @@ icone {
 
 icone2 { 
   width: 100px;
-  height: 100px;
+  height: 50px;
   object-fit: cover;
   border: 2px solid #ccc;
   border-radius: 8px;
 }
 
 icone3 {
-  width: 50px;
+  width: 100px;
   height: 50px;
   object-fit: cover;
   border: 2px solid #ccc;
@@ -65,7 +65,7 @@ icone3 {
 
 icone4 {
   width: 100px;
-  height: 100px;
+  height: 50px;
   object-fit: cover;
   border: 2px solid #ccc;
   border-radius: 8px;
